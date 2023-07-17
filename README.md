@@ -1,2 +1,3 @@
 # first-express-project
-A basic site structure using express 
+
+a very basic site using node express that contains 4 pages: index, about, contact-me and 404.

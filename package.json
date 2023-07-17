@@ -1,0 +1,22 @@
+{
+  "name": "first-express-project",
+  "version": "1.0.0",
+  "description": "a very basic site using node.js that contains 4 pages: index, about, contact-me and 404.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachlamont/first-express-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachlamont/first-express-project/issues"
+  },
+  "homepage": "https://github.com/zachlamont/first-express-project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
